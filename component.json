@@ -1,0 +1,7 @@
+{
+  "name": "pure",
+  "repository": "evs-chris/component-pure",
+  "description": "Purecss.io Pure packaged as a component.",
+  "styles": ["build/pure.css"],
+  "license": "BSD"
+}
